@@ -1,0 +1,4 @@
+#Immpede que o conteiner fique cheio e pesado       
+
+node_modules
+.git
